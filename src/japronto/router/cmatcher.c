@@ -42,7 +42,7 @@ typedef struct {
 } Segment;
 
 
-static MatchDictEntry _match_dict_entries[10];
+static MatchDictEntry _match_dict_entries[18];
 
 static Request_CAPI* request_capi;
 static PyObject* compile_all;
